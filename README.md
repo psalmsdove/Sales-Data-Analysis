@@ -50,7 +50,7 @@ python app.py
 
 ## Data Source
 
-The project uses a sample sales dataset that is included in the `data` directory. The dataset contains information about orders, customers, products, sales, profits and much more.
+The project uses a sample sales dataset that is included in the `sales.xlsx` file. The dataset contains information about orders, customers, products, sales, profits and much more.
 
 
 ## License
