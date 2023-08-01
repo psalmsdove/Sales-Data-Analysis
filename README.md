@@ -1,5 +1,8 @@
 # Sales Analysis Dashboard
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/company-data-analysis/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-311/)
+
 Sales Analysis Dashboard is a web-based data visualization project that aims to provide insights into a retail company's sales data. The main goal of the project is to help the company understand its sales performance, identify trends, and make data-driven decisions to improve profitability and customer satisfaction.
 ## Features
 
